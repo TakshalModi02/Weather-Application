@@ -4,7 +4,7 @@ import 'package:flutter_dotenv/flutter_dotenv.dart';
 import '../../../utils/services/response.dart';
 import '../../../utils/services/location.dart';
 
-class loadingController {=
+class loadingController {
   String apiKey = ""; //add your api key
   String url = "https://api.openweathermap.org/data/2.5/weather";
   bool loading = true;
