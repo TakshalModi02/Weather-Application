@@ -8,4 +8,4 @@ Add your API key wherever required
 
 ## Demo
 
-<img src="https://github.com/TakshalModi02/Weather-Application/blob/master/ScreenShots/1.png?raw=true" width="300" height="300" alt="Please try again">
+<img src="./ScreenShots/1.png" width="150" height="300" alt="All Screen Shots are present in ScreenShots Directory">&nbsp;&nbsp; <img src="./ScreenShots/2.png" width="150" height="300" alt="All Screen Shots are present in ScreenShots Directory">&nbsp;&nbsp;<img src="./ScreenShots/3.png" width="150" height="300" alt="All Screen Shots are present in ScreenShots Directory">&nbsp;&nbsp;<img src="./ScreenShots/4.png" width="150" height="300" alt="All Screen Shots are present in ScreenShots Directory">&nbsp;&nbsp;<img src="./ScreenShots/5.png" width="150" height="300" alt="All Screen Shots are present in ScreenShots Directory">&nbsp;&nbsp;<img src="./ScreenShots/6.png" width="150" height="300" alt="All Screen Shots are present in ScreenShots Directory">
