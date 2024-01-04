@@ -8,4 +8,4 @@ Add your API key wherever required
 
 ## Demo
 
-!["Please try again"](/ScreenShots/1.png)
+<img src="/ScreenShots/1.png" width="300" alt="Please try again">
